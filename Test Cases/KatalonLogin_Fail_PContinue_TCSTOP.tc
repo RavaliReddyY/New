@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KatalonLogin_Fail_PContinue_TCSTOP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5378916f-5026-4db6-9968-4670bfed9c11</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KatalonLogin_Fail_PSTOP_TC_CONTIUNE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa38c34f-c3f6-43fd-b226-b3767b1b4886</testCaseGuid>
+</TestCaseEntity>
